@@ -1,0 +1,7 @@
+name = "findomain" # todo
+main = "./src/index.ts"
+compatibility_date = "2023-08-30"
+
+kv_namespaces = [
+	{ binding = "data", id = "cf048438218f4617b25542ba358bfffd" }
+]
